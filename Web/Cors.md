@@ -2,7 +2,7 @@
 
 * 웹사이트(브라우저)에서 일어나는 일
 
-* 요청을 막고 있는 것은 **SOP(Same-Origin-Policy)**, **CORS(Cross-Origin Resource Sharing)**는 SOP와 반대되는 개념으로 다른 출처간에 리소스를 공유할 수 있도록 허용해 주는 것을 말한다. (정보 요청과 반환이 가능하도록 하는 것)
+* 요청을 막고 있는 것은 **SOP(Same-Origin-Policy)**, **CORS(Cross-Origin Resource Sharing)** 는 SOP와 반대되는 개념으로 다른 출처간에 리소스를 공유할 수 있도록 허용해 주는 것을 말한다. (정보 요청과 반환이 가능하도록 하는 것)
 
 리소스: 주고 받아지는 데이터, 출처: 보내고 받는 각각의 위치 즉, 웹사이트랑 API의 주소
 
