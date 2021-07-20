@@ -1,0 +1,1 @@
+# tech-information-for-developer
