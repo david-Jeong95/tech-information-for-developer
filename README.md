@@ -6,4 +6,4 @@
 
 ## Web & Network
 
-[cors의 이해(https://github.com/david-Jeong95/tech-information-for-developer/blob/main/Web/Cors.md/)
+[cors의 이해](https://github.com/david-Jeong95/tech-information-for-developer/blob/main/Web/Cors.md/)
