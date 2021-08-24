@@ -12,3 +12,4 @@
 
 - [cors의 이해](https://github.com/david-Jeong95/tech-information-for-developer/blob/main/Web%26Network/Cors.md)
 - [HTTP & HTTPS](https://github.com/david-Jeong95/tech-information-for-developer/blob/main/Web%26Network/HTTP%26HTTPS.md)
+- [브라우저에서 웹 페이지를 접속하면 발생하는 일](https://github.com/david-Jeong95/tech-information-for-developer/blob/main/Web%26Network/About-connect-website.md)
