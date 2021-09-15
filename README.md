@@ -17,4 +17,4 @@
 
 ## API
 
-- [REST API]()
+- [REST API](https://github.com/david-Jeong95/tech-information-for-developer/blob/main/API/REST-API.md)
